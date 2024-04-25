@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Financely/static/css/main.5c275055.css",
+    "main.js": "/Financely/static/js/main.465b0b04.js",
+    "static/js/453.780747c6.chunk.js": "/Financely/static/js/453.780747c6.chunk.js",
+    "static/media/logo.svg": "/Financely/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Financely/index.html",
+    "main.5c275055.css.map": "/Financely/static/css/main.5c275055.css.map",
+    "main.465b0b04.js.map": "/Financely/static/js/main.465b0b04.js.map",
+    "453.780747c6.chunk.js.map": "/Financely/static/js/453.780747c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c275055.css",
+    "static/js/main.465b0b04.js"
+  ]
+}
